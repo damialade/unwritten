@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "customerName": "Heinrick Woolard",
+    "email": "hwoolard0@economist.com",
+    "gender": "M",
+    "phone": "774-705-9281",
+    "address": "619 Butternut Place",
+    "status": "Inactive"
+  },
+  {
+    "id": 2,
+    "customerName": "Shurlocke Yurmanovev",
+    "email": "syurmanovev1@mozilla.com",
+    "gender": "F",
+    "phone": "805-679-6075",
+    "address": "375 Iowa Crossing",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "customerName": "Aubert Oles",
+    "email": "aoles2@diigo.com",
+    "gender": "F",
+    "phone": "536-709-8471",
+    "address": "83 Chive Park",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "customerName": "Belvia Jedrysik",
+    "email": "bjedrysik3@weather.com",
+    "gender": "M",
+    "phone": "763-987-2182",
+    "address": "52688 Montana Parkway",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "customerName": "Del Gaucher",
+    "email": "dgaucher4@tinyurl.com",
+    "gender": "F",
+    "phone": "365-805-5845",
+    "address": "3436 Summerview Road",
+    "status": "Active"
+  }
+]
